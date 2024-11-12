@@ -9,3 +9,7 @@
 .col-3{
     flex: 1;
 }
+
+.row{
+    display: flex;
+}
