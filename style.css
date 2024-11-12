@@ -26,8 +26,11 @@
 }
 
 .buscador{
-    border: white;
     border-radius: 20px;
+}
+
+.t-img{
+    height: 40px;
 }
 
 .barra{
