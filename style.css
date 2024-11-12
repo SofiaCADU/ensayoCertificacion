@@ -58,15 +58,17 @@
 }
 
 .c{
+    padding: 5px;
     background-color: gray;
     width: 1200px;
+    justify-content: start
 }
 
 .but{
 border: none;
 background-color: gray;
- }
+}
 
- .on{
+.on{
     color: #b6f0fb;
- }
+}
