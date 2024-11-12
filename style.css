@@ -16,6 +16,7 @@
     display: flex;
 }
 /* general */
+/* Inicio barra navegacion */
 .L-barra{
     list-style-type: none;
     font-weight: bold;
@@ -42,9 +43,14 @@
 .img-m{
     width: 1200px;
 }
-
+/* Fin barra navegacion */
+/* Inicio main */
 .main{
     text-align: center;
+}
+
+.t-img{
+    width: 1200px;
 }
 
 .b{
