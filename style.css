@@ -3,6 +3,7 @@
     margin: 0 auto;
     padding: 0 auto;
     box-sizing: border-box;
+    font-family: sans-serif;
 }
 
 .col-1,
@@ -17,6 +18,7 @@
 /* general */
 .L-barra{
     list-style-type: none;
+    font-weight: bold;
 }
 
 .p{
@@ -24,6 +26,7 @@
 }
 
 .buscador{
+    border: white;
     border-radius: 20px;
 }
 
