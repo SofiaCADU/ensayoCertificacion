@@ -29,6 +29,7 @@
 
 .barra{
     border:solid black 1px;
+    justify-content: center;
 }
 
 .img-m{
