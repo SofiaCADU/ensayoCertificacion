@@ -34,3 +34,8 @@
 .img-m{
     width: 1200px;
 }
+
+.none{
+    padding: 0 auto;
+    margin: 0 auto;
+}
