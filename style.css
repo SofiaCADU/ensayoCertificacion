@@ -15,5 +15,9 @@
 }
 
 .L-barra{
-    
+    list-style-type: none;
+}
+
+.p{
+    padding: 10px;
 }
