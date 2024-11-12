@@ -23,5 +23,9 @@
 }
 
 .buscador{
-    
+    border-radius: 20px;
+}
+
+.barra{
+    border:solid black 1px;
 }
