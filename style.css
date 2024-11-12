@@ -26,7 +26,12 @@
 }
 
 .buscador{
-    border-radius: 20px;
+    border-radius: 20px; 
+    background-image: url(img/menu_icon2.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
 }
 
 .t-img{
