@@ -35,3 +35,8 @@
 .img-m{
     width: 1200px;
 }
+
+main{
+    margin: 0 auto;
+    padding: 0 auto;
+}
