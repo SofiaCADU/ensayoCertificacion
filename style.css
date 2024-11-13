@@ -212,6 +212,8 @@
 }
 
 .ai{
+    width: 1200px;
     align-items: center;
+    text-align: left;
     padding: 10px;
 }
