@@ -44,10 +44,12 @@
     background-repeat: no-repeat;
     border: none;
     cursor: pointer;
+    height: 30px;
+    width: 300px;
 }
 
 .imgm2{
-    width: 50px;
+    width: 30px;
     border-radius: 0px 30px 30px 0px;
 }
 
