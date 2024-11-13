@@ -109,3 +109,37 @@ background-color: gray;
 .tm{
     width: 30px;
 }
+
+/* footer */
+.footer{
+    width: 1200px;
+}
+
+.lista{
+    list-style-type: none;
+}
+
+.lista a{
+    text-decoration: none;
+    color: #767676;
+}
+
+.esp{
+    padding: 10px;
+}
+
+.E{
+    padding-left: 40px;
+}
+
+.IM{
+    width: 35px;
+}
+
+.color{
+    color: #767676;
+}
+
+.bor{
+    border-top: #e0e0e0 solid 1px;
+}
